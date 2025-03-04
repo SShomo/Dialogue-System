@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CoolDialogueSys",
+			"Path": "..\\Source\\CoolDialogueSys.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CoolDialogueSysEditor",
+			"Path": "..\\Source\\CoolDialogueSysEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
