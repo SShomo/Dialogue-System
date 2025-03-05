@@ -15,6 +15,7 @@
     <ProjectReference Include="..\..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.4\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.csproj"><Private>false</Private></ProjectReference>
   </ItemGroup>
   <ItemGroup>
+  <Compile Include="..\..\..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\VisualStudioTools.Build.cs"><Link>Plugins\VisualStudioTools\Source\VisualStudioTools\VisualStudioTools.Build.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\CoolDialogueSys.Target.cs"><Link>Source\CoolDialogueSys.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\CoolDialogueSysEditor.Target.cs"><Link>Source\CoolDialogueSysEditor.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\CoolDialogueSys\CoolDialogueSys.Build.cs"><Link>Source\CoolDialogueSys\CoolDialogueSys.Build.cs</Link></Compile>

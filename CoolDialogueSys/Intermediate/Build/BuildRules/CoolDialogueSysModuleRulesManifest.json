@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\xavier.olmstead\\repos\\Dialogue-System\\CoolDialogueSys\\Source\\CoolDialogueSys\\CoolDialogueSys.Build.cs",
+		"C:\\Users\\xavier.olmstead\\repos\\Dialogue-System\\CoolDialogueSys\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
 		"C:\\Users\\xavier.olmstead\\repos\\Dialogue-System\\CoolDialogueSys\\Source\\CoolDialogueSys.Target.cs",
 		"C:\\Users\\xavier.olmstead\\repos\\Dialogue-System\\CoolDialogueSys\\Source\\CoolDialogueSysEditor.Target.cs"
 	],

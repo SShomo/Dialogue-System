@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoolDialogueSysModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+515942e1b35d0e76b88445ccda5f8ffd2d64a95b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1db8ea64c68d0425a06b99f3c6b6ce1f9f9bd91")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoolDialogueSysModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoolDialogueSysModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

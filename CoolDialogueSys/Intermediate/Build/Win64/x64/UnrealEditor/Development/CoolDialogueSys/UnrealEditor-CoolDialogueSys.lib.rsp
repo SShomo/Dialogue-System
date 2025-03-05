@@ -7,8 +7,17 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\CoolDialogueSysEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\BranchingDialogue.gen.cpp.obj"
+"C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\CoolDialogueSys.init.gen.cpp.obj"
+"C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\Dialogue.gen.cpp.obj"
+"C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\RepeatingDialogue.gen.cpp.obj"
+"C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\SequencedDialogue.gen.cpp.obj"
+"C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\SequenceDialogue.gen.cpp.obj"
 "C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\CoolDialogueSys.cpp.obj"
 "C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\BranchingDialogue.cpp.obj"
 "C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\Dialogue.cpp.obj"
+"C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\RepeatingDialogue.cpp.obj"
+"C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\SequencedDialogue.cpp.obj"
+"C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\SequenceDialogue.cpp.obj"
 "C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\Default.rc2.res"
 /OUT:"C:\Users\xavier.olmstead\repos\Dialogue-System\CoolDialogueSys\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoolDialogueSys\UnrealEditor-CoolDialogueSys.lib"
