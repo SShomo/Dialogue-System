@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/Dialogue.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/DialogueInterface.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/BaseDialogue.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/RepeatingDialogue.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/DialogueSystem.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/StarterContent/DialogueSystemTest/BP_TestDialogue.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/BP_BaseDialogue.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/BP_RepeatingDialogue.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/BP_BranchingDialogue.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/StarterContent/DialogueSystemTest/W_Dialogue.uasset"
 			]
 		}
 	]

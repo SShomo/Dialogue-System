@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cooldialoguesys\\singlefile\\dialogue.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cooldialoguesys\\definitions.cooldialoguesys.h",
+            "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\intermediate\\build\\win64\\x64\\cooldialoguesyseditor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
+            "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\source\\cooldialoguesys\\dialogue.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

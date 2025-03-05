@@ -11,6 +11,8 @@
     <None Include="..\..\Source\CoolDialogueSysEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +31,12 @@
     <Filter Include="Source\CoolDialogueSys">
       <UniqueIdentifier>{DE4C9880-D243-34EE-8DD7-88F397F7637F}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\CoolDialogueSys\BranchingDialogue.cpp">
+      <Filter>Source\CoolDialogueSys</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoolDialogueSys\BranchingDialogue.h">
+      <Filter>Source\CoolDialogueSys</Filter>
+    </ClInclude>
     <None Include="..\..\Source\CoolDialogueSys\CoolDialogueSys.Build.cs">
       <Filter>Source\CoolDialogueSys</Filter>
     </None>
@@ -36,6 +44,12 @@
       <Filter>Source\CoolDialogueSys</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\CoolDialogueSys\CoolDialogueSys.h">
+      <Filter>Source\CoolDialogueSys</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoolDialogueSys\Dialogue.cpp">
+      <Filter>Source\CoolDialogueSys</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoolDialogueSys\Dialogue.h">
       <Filter>Source\CoolDialogueSys</Filter>
     </ClInclude>
   </ItemGroup>
