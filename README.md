@@ -14,6 +14,7 @@ DialogueSystem (actor component):
 - Variables
   - currentDialogue : UDialogue
   - dialogueWidget : Widget 
+
 The dialogue system is the UE5 interface for implementing dialogue onto any actor in Unreal. The dialogue system is a actor component for ease of connecting dialogue.
 
 UDialogue (cpp file):
@@ -26,6 +27,7 @@ UDialogue (cpp file):
   - getNextDialogue() : FString
   - resetDialogue() : void
   - nextDialogue() : UDialogue
+
 UDialogue is an abstract class. This makes it easier to interact with all concrete dialogue classes.
 getNextDialogue() is used to get the next dialogue in the dialogue array. dialogueIndex is incremented when called. If dialogueIndex is outside the length of the array a blank string is returned.
 resetDialogue() sets dialogueIndex to zero.
@@ -39,11 +41,13 @@ UBranchingDialogue (child class of UDialogue):
   - dialogueOptions : UDialogue[]
 - Functions
   - chooseDialogue(int) : UDialogue
+
 UBranchingDialogue is used for branching dialogue options.
 chooseDialogue(int) takes the index of the dialogue to select, and returns that dialogue in the array (possibly override nextDialogue()?).
 
 USequencedDialogue (child class of UDialogue):
 - Variables
   - nextDialogue : UDialogue
+
 USequencedDialogue is used to have dialogue that dirrectly follows a previous dialogue. nextDialogue() is automatically called when dialogueIndex is outside the dialogue array.
 
