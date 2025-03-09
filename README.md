@@ -52,6 +52,8 @@ chooseDialogue(int) takes the index of the dialogue to select, and returns that 
 USequencedDialogue is used to have dialogue that dirrectly follows a previous dialogue. nextDialogue() is automatically called when dialogueIndex is outside the dialogue array.
 
 # Next Steps
-Implement audio and visual dialogue classes to pair voice acting and UI art to dialogue
-Implement .csv file reading for ease of designer interaction with the system
+Implement audio and visual dialogue classes to pair voice acting and UI art to dialogue.
+
+Implement .csv file reading for ease of designer interaction with the system.
+
 Work with narrative designers to find points of difficulty in working with our system, and improve the system to make the narrative design pipeline as simple as possible.
