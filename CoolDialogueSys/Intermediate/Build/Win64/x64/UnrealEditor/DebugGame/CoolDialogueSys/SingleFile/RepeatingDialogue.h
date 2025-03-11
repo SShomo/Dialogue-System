@@ -1,0 +1,1 @@
+#include "C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Source/CoolDialogueSys/Public/RepeatingDialogue.h"

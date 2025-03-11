@@ -83,10 +83,10 @@ USequenceDialogue::~USequenceDialogue() {}
 struct Z_CompiledInDeferFile_FID_Users_xavier_olmstead_repos_Dialogue_System_CoolDialogueSys_Source_CoolDialogueSys_Public_SequenceDialogue_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_USequenceDialogue, USequenceDialogue::StaticClass, TEXT("USequenceDialogue"), &Z_Registration_Info_UClass_USequenceDialogue, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USequenceDialogue), 1465104733U) },
+		{ Z_Construct_UClass_USequenceDialogue, USequenceDialogue::StaticClass, TEXT("USequenceDialogue"), &Z_Registration_Info_UClass_USequenceDialogue, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USequenceDialogue), 2271934738U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_xavier_olmstead_repos_Dialogue_System_CoolDialogueSys_Source_CoolDialogueSys_Public_SequenceDialogue_h_3579714381(TEXT("/Script/CoolDialogueSys"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_xavier_olmstead_repos_Dialogue_System_CoolDialogueSys_Source_CoolDialogueSys_Public_SequenceDialogue_h_3095389305(TEXT("/Script/CoolDialogueSys"),
 	Z_CompiledInDeferFile_FID_Users_xavier_olmstead_repos_Dialogue_System_CoolDialogueSys_Source_CoolDialogueSys_Public_SequenceDialogue_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_xavier_olmstead_repos_Dialogue_System_CoolDialogueSys_Source_CoolDialogueSys_Public_SequenceDialogue_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

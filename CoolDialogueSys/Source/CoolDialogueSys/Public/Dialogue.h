@@ -9,19 +9,19 @@
 /**
  * 
  */
-UCLASS(Abstract, Blueprintable)
+UCLASS(Abstract, BlueprintType)
 class COOLDIALOGUESYS_API UDialogue : public UObject
 {
 	GENERATED_BODY()
   public: 
 	  UFUNCTION(BlueprintCallable)
-	  virtual std::pair<FString, bool> getNextDialogue();
+	  virtual void getNextDialogue(FString& text_out, bool& isFinished_out);
 	  UFUNCTION(BlueprintCallable)
 	  void resetDialogue();
 	  UFUNCTION(BlueprintCallable)
 	  virtual UDialogue* nextDialogue();
 
-  private: 
+  protected: 
 	  UPROPERTY(VisibleAnywhere)
 	  TArray<FString> dialogue;
 	  UPROPERTY(VisibleAnywhere)

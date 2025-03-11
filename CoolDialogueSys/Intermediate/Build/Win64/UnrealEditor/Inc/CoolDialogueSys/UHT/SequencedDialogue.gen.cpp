@@ -38,12 +38,12 @@ struct Z_Construct_UClass_USequencedDialogue_Statics
 		{ "IsBlueprintBase", "true" },
 		{ "ModuleRelativePath", "Public/SequencedDialogue.h" },
 	};
-	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_nextDialogue_MetaData[] = {
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_next_MetaData[] = {
 		{ "Category", "SequencedDialogue" },
 		{ "ModuleRelativePath", "Public/SequencedDialogue.h" },
 	};
 #endif // WITH_METADATA
-	static const UECodeGen_Private::FObjectPropertyParams NewProp_nextDialogue;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_next;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -51,9 +51,9 @@ struct Z_Construct_UClass_USequencedDialogue_Statics
 	};
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
-const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_USequencedDialogue_Statics::NewProp_nextDialogue = { "nextDialogue", nullptr, (EPropertyFlags)0x0040000000020001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(USequencedDialogue, nextDialogue), Z_Construct_UClass_UDialogue_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_nextDialogue_MetaData), NewProp_nextDialogue_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_USequencedDialogue_Statics::NewProp_next = { "next", nullptr, (EPropertyFlags)0x0040000000020001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(USequencedDialogue, next), Z_Construct_UClass_UDialogue_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_next_MetaData), NewProp_next_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_USequencedDialogue_Statics::PropPointers[] = {
-	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USequencedDialogue_Statics::NewProp_nextDialogue,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USequencedDialogue_Statics::NewProp_next,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_USequencedDialogue_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_USequencedDialogue_Statics::DependentSingletons[])() = {
@@ -97,10 +97,10 @@ USequencedDialogue::~USequencedDialogue() {}
 struct Z_CompiledInDeferFile_FID_Users_xavier_olmstead_repos_Dialogue_System_CoolDialogueSys_Source_CoolDialogueSys_Public_SequencedDialogue_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_USequencedDialogue, USequencedDialogue::StaticClass, TEXT("USequencedDialogue"), &Z_Registration_Info_UClass_USequencedDialogue, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USequencedDialogue), 142615851U) },
+		{ Z_Construct_UClass_USequencedDialogue, USequencedDialogue::StaticClass, TEXT("USequencedDialogue"), &Z_Registration_Info_UClass_USequencedDialogue, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USequencedDialogue), 990829254U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_xavier_olmstead_repos_Dialogue_System_CoolDialogueSys_Source_CoolDialogueSys_Public_SequencedDialogue_h_102554225(TEXT("/Script/CoolDialogueSys"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_xavier_olmstead_repos_Dialogue_System_CoolDialogueSys_Source_CoolDialogueSys_Public_SequencedDialogue_h_133281434(TEXT("/Script/CoolDialogueSys"),
 	Z_CompiledInDeferFile_FID_Users_xavier_olmstead_repos_Dialogue_System_CoolDialogueSys_Source_CoolDialogueSys_Public_SequencedDialogue_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_xavier_olmstead_repos_Dialogue_System_CoolDialogueSys_Source_CoolDialogueSys_Public_SequencedDialogue_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\intermediate\\build\\win64\\unrealeditor\\inc\\cooldialoguesys\\uht\\cooldialoguesys.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\intermediate\\build\\win64\\x64\\cooldialoguesyseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cooldialoguesys\\definitions.cooldialoguesys.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

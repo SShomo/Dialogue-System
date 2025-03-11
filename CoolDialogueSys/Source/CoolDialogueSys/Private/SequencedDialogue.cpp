@@ -5,5 +5,5 @@
 
 UDialogue* USequencedDialogue::nextDialogue()
 {
-	return nextDialogue;
+	return next;
 }

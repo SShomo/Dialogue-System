@@ -3,13 +3,17 @@
 
 #include "Dialogue.h"
 
-std::pair<FString, bool> UDialogue::getNextDialogue()
+void UDialogue::getNextDialogue(FString& out_text, bool& out_isFinished)
 {
-	if(dialogueIndex >= dialogue.GetAllocatedSize())
-		return std::pair(FString(), true);
+	if (dialogueIndex >= dialogue.GetAllocatedSize()) {
+		out_isFinished = true;
+		out_text = FString();
+		return;
+	}
 
 	dialogueIndex++;
-	return std::pair(dialogue[dialogueIndex - 1], false);
+	out_text = dialogue[dialogueIndex - 1];
+	out_isFinished = dialogueIndex >= dialogue.GetAllocatedSize();
 }
 
 void UDialogue::resetDialogue()

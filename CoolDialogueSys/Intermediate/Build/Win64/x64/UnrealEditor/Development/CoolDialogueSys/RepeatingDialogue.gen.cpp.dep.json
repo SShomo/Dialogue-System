@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\intermediate\\build\\win64\\unrealeditor\\inc\\cooldialoguesys\\uht\\repeatingdialogue.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\intermediate\\build\\win64\\x64\\cooldialoguesyseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cooldialoguesys\\definitions.cooldialoguesys.h",
+            "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\source\\cooldialoguesys\\public\\repeatingdialogue.h",
+            "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\source\\cooldialoguesys\\public\\dialogue.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\intermediate\\build\\win64\\unrealeditor\\inc\\cooldialoguesys\\uht\\dialogue.generated.h",
+            "c:\\users\\xavier.olmstead\\repos\\dialogue-system\\cooldialoguesys\\intermediate\\build\\win64\\unrealeditor\\inc\\cooldialoguesys\\uht\\repeatingdialogue.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

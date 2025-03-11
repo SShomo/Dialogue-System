@@ -12,7 +12,6 @@
 				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/StarterContent/DialogueSystemTest/BP_TestDialogue.uasset",
 				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/BP_BaseDialogue.uasset",
 				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/BP_RepeatingDialogue.uasset",
-				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/BP_BranchingDialogue.uasset",
 				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/StarterContent/DialogueSystemTest/W_Dialogue.uasset",
 				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/TestScene_HLOD0_Instancing.uasset",
 				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/__ExternalActors__/TestScene/1/TM/2LSCQ2XL19NZ2H18CVIWTE.uasset",
@@ -163,6 +162,9 @@
 				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/__ExternalActors__/TestScene/4/OV/R164CW9OYOEMG6STSS1P36.uasset",
 				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/__ExternalActors__/TestScene/D/RQ/XAW1FHXERB0S7QL35QLUWA.uasset",
 				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/TestScene.umap",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/DialogueData.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/DataTable.uasset",
+				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/BP_BranchingDialogue.uasset",
 				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/BaseDialogue.uasset",
 				"C:/Users/xavier.olmstead/repos/Dialogue-System/CoolDialogueSys/Content/DialogueSystem/RepeatingDialogue.uasset"
 			]

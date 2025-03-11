@@ -9,12 +9,14 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UDialogue;
 #ifdef COOLDIALOGUESYS_Dialogue_generated_h
 #error "Dialogue.generated.h already included, missing '#pragma once' in Dialogue.h"
 #endif
 #define COOLDIALOGUESYS_Dialogue_generated_h
 
 #define FID_Users_xavier_olmstead_repos_Dialogue_System_CoolDialogueSys_Source_CoolDialogueSys_Public_Dialogue_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execnextDialogue); \
 	DECLARE_FUNCTION(execresetDialogue); \
 	DECLARE_FUNCTION(execgetNextDialogue);
 

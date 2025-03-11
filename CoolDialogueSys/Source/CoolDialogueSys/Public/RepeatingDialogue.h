@@ -13,5 +13,6 @@ UCLASS()
 class COOLDIALOGUESYS_API URepeatingDialogue : public UDialogue
 {
 	GENERATED_BODY()
-	
+public:
+	void getNextDialogue(FString& out_text, bool& out_isFinished) override;
 };
